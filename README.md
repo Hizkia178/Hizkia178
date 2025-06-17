@@ -6,7 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hizkia178&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hizkia178&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# My Idol Follow Github ![@TEPPN](https://github.com/TEPPN)
+# My Idol Follow Github [TEPPN](https://github.com/TEPPN)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hizkia178&icon=0&color=0)](https://visitcount.itsvg.in)
